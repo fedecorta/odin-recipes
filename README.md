@@ -1,2 +1,2 @@
 # odin-recipes
-hola hola xd
+basic recipes website for the odin project
